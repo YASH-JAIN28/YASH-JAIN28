@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  
-<img align="right" alt="coding" width="400" src= https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif>
+<img align="right" alt="coding" width="250" src= ![image](https://github.com/YASH-JAIN28/YASH-JAIN28/assets/145765022/2a29c18a-0618-44c0-ad13-a45c92171333)
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-jain-28&label=Profile%20views&color=0e75b6&style=flat" alt="yash-jain-28" /> </p>
 
