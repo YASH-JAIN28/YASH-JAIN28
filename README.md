@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **java and typescript**
 
-- 💬 Ask me about **html, C s s, Javascript**
+- 💬 Ask me about **html, Css, Javascript**
 
 - 📫 How to reach me **2910jainyash@gmail.com**
 
