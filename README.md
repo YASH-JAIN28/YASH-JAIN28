@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js , java<br>💬 Ask me about HTML,CSS,C/C++,JAVASCRIPT<br>⚡ Fun fact I Think I Am Funny.
+🌱 I’m currently learning React.js , java<br>💬 Ask me about HTML,CSS,C/C++,Javascript<br>⚡ Fun fact I Think I Am Funny.
 
 
 ## 🌐 Socials:
