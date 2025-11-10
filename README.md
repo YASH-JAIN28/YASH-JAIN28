@@ -1,89 +1,94 @@
-<!-- Yash Jain | MERN Stack Developer -->
-
-<!-- Header -->
-<img align="center" alt="Coding" width="100%" src="https://github.com/YASH-JAIN28/YASH-JAIN28/blob/main/assets/banner.gif"/>
-
-<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF;">Yash Jain</span></h1>
-<h3 align="center">💻 MERN Stack Developer | UI/UX Enthusiast | IoT Explorer</h3>
+<h1 align="center">👋 Hey there, I'm Yash Jain</h1>
+<h3 align="center">💻 MERN Stack Developer | 🤖 AI & ML Enthusiast | 🎨 UI/UX Designer | 🇮🇳 From India</h3>
 
 ---
 
 ### 🌟 About Me  
-🚀 Passionate about building modern web applications & exploring cutting-edge technologies.  
-🎓 MCA (AI/ML) @ **Chandigarh University** | BCA from **IMS Ghaziabad**  
-🌱 Currently diving deep into **React.js**, **Java**, and **Internet of Things (IoT)**  
-💬 Ask me about **JavaScript, React, C/C++, HTML, CSS, Java**  
-🎨 Designing intuitive **user experiences** with Figma & TailwindCSS  
-⚡ *Fun fact: I debug with snacks and memes 🍫😂*
+🚀 I'm a passionate **Full Stack Web Developer** skilled in the **MERN Stack** and **AI Tools**.  
+🎓 Pursuing **MCA in AI & ML @ Chandigarh University**.  
+💡 I love blending **design + logic** to create beautiful, high-performance apps.  
+🌱 Currently exploring **Next.js**, **AI integrations**, and **IoT innovations**.  
+🎯 Mission: *Build smart, scalable, and stunning digital experiences.*
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-jain-0a9577306/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://instagram.com/jain_yash_2806" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="https://x.com/YASH_2805" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="mailto:yashjain2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+### 💬 Ask Me About  
+🪄 **MERN Stack** | ⚙️ **JavaScript (ES6+)** | 💻 **C/C++** | 🐍 **Python** | 🤖 **AI Tools** | 🎨 **UI/UX Design**
+
+---
+
+### 🧠 Tech Stack & Tools  
+
+#### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css" />
+</p>
+
+#### ⚛️ Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+#### 🛢️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### 🔧 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva" />
+</p>
+
+#### 🤖 AI & Productivity Tools  
+<p>
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Tools%20Explorer-FFB900?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Tech Arsenal  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,cpp,c,mysql,vercel,figma,canva" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YASH-JAIN28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH-JAIN28&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-JAIN28&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASH-JAIN28&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YASH-JAIN28&theme=tokyonight&hide_border=true" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-JAIN28&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🌈 Fun Facts  
+🎨 I enjoy designing aesthetic and modern UIs.  
+🧩 Coding + Coffee = My favorite combo ☕💻  
+⚡ I love learning new technologies every single day.  
 
 ---
 
-### 🏆 Trophies & Highlights  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YASH-JAIN28&theme=dracula&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
-### ✨ Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🔝 Top Repositories  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YASH-JAIN28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-### 😂 Random Dev Meme  
-<p align="center">
-  <img src="https://randommeme-five.vercel.app/" width="420px"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=YASH-JAIN28&label=Profile%20Views&color=0&icon=6&pretty=true" />
+### 🌍 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-jain-0a9577306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YASH-JAIN28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jain_yash_2806" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:yashjain.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Turning ideas into interactive experiences.” ✨</h3>
+<h4 align="center">✨ Thanks for visiting my profile! Let's connect and create something extraordinary together 🚀</h4>
 
-<!-- Designed by Yash Jain -->
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=YASH-JAIN28&icon=0&color=6" />
+</p>
