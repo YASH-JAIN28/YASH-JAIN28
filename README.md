@@ -1,30 +1,89 @@
-# 💫 About Me:
-🌱 I’m currently learning React.js , java<br>💬 Ask me about HTML,CSS,C/C++,Javascript<br>⚡ Fun fact I Think I Am Funny.
+<!-- Yash Jain | MERN Stack Developer -->
 
+<!-- Header -->
+<img align="center" alt="Coding" width="100%" src="https://github.com/YASH-JAIN28/YASH-JAIN28/blob/main/assets/banner.gif"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jain_yash_2806) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YASH_2805) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YASH-JAIN28&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YASH-JAIN28&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-JAIN28&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YASH-JAIN28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YASH-JAIN28&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF;">Yash Jain</span></h1>
+<h3 align="center">💻 MERN Stack Developer | UI/UX Enthusiast | IoT Explorer</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YASH-JAIN28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 About Me  
+🚀 Passionate about building modern web applications & exploring cutting-edge technologies.  
+🎓 MCA (AI/ML) @ **Chandigarh University** | BCA from **IMS Ghaziabad**  
+🌱 Currently diving deep into **React.js**, **Java**, and **Internet of Things (IoT)**  
+💬 Ask me about **JavaScript, React, C/C++, HTML, CSS, Java**  
+🎨 Designing intuitive **user experiences** with Figma & TailwindCSS  
+⚡ *Fun fact: I debug with snacks and memes 🍫😂*
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-jain-0a9577306/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://instagram.com/jain_yash_2806" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://x.com/YASH_2805" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="mailto:yashjain2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
+
+---
+
+### 🧠 Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,cpp,c,mysql,vercel,figma,canva" />
+</p>
+
+---
+
+### 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YASH-JAIN28&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YASH-JAIN28&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-JAIN28&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 Trophies & Highlights  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YASH-JAIN28&theme=dracula&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+### ✨ Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔝 Top Repositories  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=YASH-JAIN28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 😂 Random Dev Meme  
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" width="420px"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=YASH-JAIN28&label=Profile%20Views&color=0&icon=6&pretty=true" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ “Turning ideas into interactive experiences.” ✨</h3>
+
+<!-- Designed by Yash Jain -->
+
