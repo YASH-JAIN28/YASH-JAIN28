@@ -1,64 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a0033,60:0f0c29,100:302b63&height=250&section=header&text=Y%20A%20S%20H%20.%20J%20A%20I%20N&fontSize=55&fontColor=00ffe7&animation=twinkling&fontAlignY=33&desc=%5B%20FULL_STACK_DEV%20%2F%2F%20AI_ML_ENGINEER%20%2F%2F%20INDIA%20%5D&descAlignY=52&descSize=15&descColor=ff00c8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:7C3AED&height=220&section=header&text=YASH%20JAIN&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20ML%20ENTHUSIAST&descAlignY=58&descSize=16&descColor=E0E7FF" width="100%" alt="Yash Jain"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=600&color=00FFE7&background=00000000&center=true&vCenter=true&width=750&lines=root%40yash-jain%3A~%23+whoami;%3E+Full+Stack+Architect+%7C+MERN+%2B+AI;root%40yash-jain%3A~%23+status;%3E+%5BONLINE%5D+Building+the+future...;root%40yash-jain%3A~%23+_" alt="Typing SVG" />
+<h2>Building. Learning. Shipping. 🚀</h2>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffe7?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/LOCATION-INDIA-ff00c8?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/ROLE-DEVELOPER-00ffe7?style=for-the-badge&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=YASH-JAIN28&color=ff00c8&style=for-the-badge&label=SCANS&labelColor=000000" />
+<p>
+<a href="https://github.com/YASH-JAIN28">
+<img src="https://img.shields.io/badge/GitHub-YASH--JAIN28-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/yash-jain-0a9577306/">
+<img src="https://img.shields.io/badge/LinkedIn-Yash%20Jain-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=YASH-JAIN28&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="0" height="0"/>
+## 👋 About Me
 
-```ansi
-[0;35m╔══════════════════════════════════════════════════════════════╗
-║ [0;36mSYS_LOG[0;37m :: [0;32mboot_sequence_initiated[0;37m :: [0;33m[OK][0m
-[0;35m╚══════════════════════════════════════════════════════════════╝[0m
+Hi, I'm **Yash Jain**, an MCA student specializing in **Artificial Intelligence & Machine Learning** at Chandigarh University.
+
+I'm a developer who enjoys turning ideas into useful, scalable and visually polished applications.
+
+### Currently focusing on
+
+* 💻 **Full-Stack Development** with MERN
+* 🧩 **Java + Data Structures & Algorithms**
+* 🐍 **Python programming & problem solving**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🚀 Building real-world projects
+
+```text
+MERN Development
+       +
+Java + DSA
+       +
+Python
+       +
+AI / ML
+       ↓
+Intelligent Full-Stack Products
 ```
 
-<table align="center">
+---
+
+## 🧭 What I'm Working On
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-```json
-{
-  "identity": {
-    "name": "Yash Jain",
-    "role": "MERN Stack Developer",
-    "education": "MCA :: AI & ML",
-    "university": "Chandigarh University",
-    "origin": "India 🇮🇳"
-  },
-  "core_directive": "Build smart, scalable,
-                      stunning systems.",
-  "current_process": "Learning Next.js,
-                       AI integrations, IoT"
-}
-```
+### 💻 Full-Stack Development
+
+Building modern applications using:
+
+**React • Node.js • Express • MongoDB**
+
+Working with:
+
+* REST APIs
+* Authentication
+* Database design
+* Responsive UI
+* API integration
+* Real-world workflows
 
 </td>
-<td valign="top" width="50%">
 
-```yaml
-query_database:
-  topics:
-    - MERN_Stack         [✓ EXPERT]
-    - JavaScript_ES6+     [✓ EXPERT]
-    - C/C++               [✓ STABLE]
-    - Python              [✓ STABLE]
-    - AI_Tools            [▓▓▓▓▓▓▓░]
-    - UI/UX_Design        [▓▓▓▓▓▓▓▓]
+<td width="50%" valign="top">
 
-uptime: "24/7 caffeinated"
-mood: "shipping_features"
+### 🧩 Problem Solving
+
+Currently giving dedicated time to:
+
+**Java + DSA**
+
+Learning and practicing:
+
+* Arrays & Strings
+* Recursion
+* Searching
+* Sorting
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Graphs
+* Dynamic Programming
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Python Journey
+
+Building Python fluency through:
+
+**100 Days → 100 Programs**
+
+The goal is to improve:
+
+> Logic → Syntax → Problem Solving → Confidence
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+
+Exploring practical AI/ML applications:
+
+* Machine Learning
+* NLP
+* AI APIs
+* LLM applications
+* AI automation
+* Intelligent web applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=light" alt="Languages"/>
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="Frontend"/>
+
+<br/><br/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=light" alt="Backend and Databases"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" alt="Tools"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### ⚡ SwiftFolio
+
+**AI-powered Portfolio & Resume Generator**
+
+SwiftFolio is a MERN-based platform designed to simplify the process of creating professional developer portfolios.
+
+```text
+Developer Information
+        ↓
+GitHub / Resume / Profiles
+        ↓
+Data Processing
+        ↓
+AI + Automation
+        ↓
+Personalized Portfolio
 ```
+
+**Stack:** React • Node.js • Express • MongoDB • AI
+
+---
+
+## 🐍 100 Days of Python
+
+<div align="center">
+
+### ONE DAY → ONE PROGRAM → ONE STEP BETTER
+
+</div>
+
+I'm following a consistent Python practice routine to improve both **syntax and programming logic**.
+
+| Phase | Focus                     | Status |
+| ----- | ------------------------- | ------ |
+| 01    | Basic Syntax & Conditions | ⬜      |
+| 02    | Loops & Number Logic      | ⬜      |
+| 03    | Patterns                  | ⬜      |
+| 04    | Strings                   | ⬜      |
+| 05    | Lists & Arrays            | ⬜      |
+| 06    | Searching & Sorting       | ⬜      |
+| 07    | Functions                 | ⬜      |
+| 08    | Recursion                 | ⬜      |
+| 09    | Problem Solving           | ⬜      |
+| 10    | Mini Projects             | ⬜      |
+
+Every program is practiced, tested and pushed to GitHub.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YASH-JAIN28&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=4F46E5&text_color=374151&rank_icon=github" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH-JAIN28&hide_border=true&background=ffffff&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideNums=374151&sideLabels=374151&dates=6B7280" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-JAIN28&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=374151" width="42%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YASH-JAIN28&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🎯 2026 Focus
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  ✓ Strengthen Java                                  │
+│  ✓ Build strong DSA fundamentals                    │
+│  → Build production-quality MERN applications       │
+│  → Complete 100 Days of Python                      │
+│  → Explore AI / ML                                  │
+│  → Build AI-powered products                        │
+│  → Contribute to open source                        │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### Learn
+
+Understand the fundamentals.
+
+</td>
+
+<td align="center">
+
+### Build
+
+Turn knowledge into projects.
+
+</td>
+
+<td align="center">
+
+### Break
+
+Debug. Experiment. Fail.
+
+</td>
+
+<td align="center">
+
+### Improve
+
+Ship something better.
 
 </td>
 </tr>
@@ -66,85 +293,31 @@ mood: "shipping_features"
 
 <br/>
 
-<div align="center">
+**Consistency > Motivation**
 
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-000000?style=flat-square&color=302b63)
+**Understanding > Memorization**
 
-### ⚡ T E C H _ A R S E N A L ⚡
-
-</div>
-
-<div align="center">
-
-<sub>**[ LANGUAGES ]**</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,python,html,css&theme=dark" />
-
-<br/><br/>
-
-<sub>**[ FRAMEWORKS // LIBRARIES ]**</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
-
-<br/><br/>
-
-<sub>**[ DATABASES ]**</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
-
-<br/><br/>
-
-<sub>**[ TOOLS // PLATFORMS ]**</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva&theme=dark" />
-
-<br/><br/>
-
-<sub>**[ NEURAL // AI SYSTEMS ]**</sub>
-<br/>
-<img src="https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google&logoColor=00ffe7" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=ff00c8" />
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=00ffe7" />
+**Building > Watching**
 
 </div>
 
-<br/>
+---
 
-```ansi
-[0;35m╔══════════════════════════════════════════════════════════════╗
-║ [0;36mSYS_LOG[0;37m :: [0;32mfetching_diagnostics[0;37m :: [0;33m[OK][0m
-[0;35m╚══════════════════════════════════════════════════════════════╝[0m
-```
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YASH-JAIN28&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffe7&icon_color=ff00c8&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH-JAIN28&theme=react&hide_border=true&background=0d1117&ring=00ffe7&fire=ff00c8&currStreakLabel=00ffe7" width="49%" />
+<a href="https://www.linkedin.com/in/yash-jain-0a9577306/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-JAIN28&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00ffe7&text_color=ffffff" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASH-JAIN28&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffe7&line=ff00c8&point=ffffff" width="49%" />
+<a href="https://github.com/YASH-JAIN28">
+<img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<br/>
-
-### 🏆 ACHIEVEMENT_CORE
-
-<img src="https://github-profile-trophy.vercel.app/?username=YASH-JAIN28&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-<br/>
-
-```ansi
-[0;35m╔══════════════════════════════════════════════════════════════╗
-║ [0;36mSYS_LOG[0;37m :: [0;32mcontribution_grid_rendering[0;37m :: [0;33m[OK][0m
-[0;35m╚══════════════════════════════════════════════════════════════╝[0m
-```
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YASH-JAIN28/YASH-JAIN28/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>⚠️ Add the <a href="https://github.com/Platane/snk">Snake action workflow</a> to your repo to activate this grid</sub>
+<a href="https://instagram.com/jain_yash_2806">
+<img src="https://img.shields.io/badge/Instagram-Follow-E11D48?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 </div>
 
@@ -152,29 +325,12 @@ mood: "shipping_features"
 
 <div align="center">
 
-![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-000000?style=flat-square&color=302b63)
+**Thanks for visiting! 👋**
 
-### 🛰️ T R A N S M I S S I O N _ C H A N N E L S 🛰️
+*Keep learning. Keep building. Keep shipping.*
 
-<a href="https://www.linkedin.com/in/yash-jain-0a9577306/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ffe7" />
-</a>
-<a href="https://github.com/YASH-JAIN28" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff00c8" />
-</a>
-<a href="https://instagram.com/jain_yash_2806" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ffe7" />
-</a>
-<a href="mailto:yashjain.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff00c8" />
-</a>
+<br/>
 
-<br/><br/>
-
-```ansi
-[0;32m> CONNECTION_ESTABLISHED // END_OF_TRANSMISSION_
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,30:0f0c29,60:1a0033,100:000000&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:2563EB&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
